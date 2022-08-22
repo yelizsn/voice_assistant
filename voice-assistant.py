@@ -122,7 +122,7 @@ def test(wake):
             response(voice)
 
 
-# speak("Selam madenci")
+# speak("Merhaba Yeliz")
 playsound("DING.mp3")
 
 while True:
